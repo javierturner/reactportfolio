@@ -16,7 +16,9 @@ function About() {
                 <div className="col-md-9">
                     <img className="image-fluid rounded float-left mx-3 my-3" id="profile" width="216px" src={Picture} alt="JT" />
                     <p>
-                        Hello, I'm JT Turner. I am a 24 year old Graphic Communications professional aiming to blend my
+                        Hi! I'm JT, a 24 year old 
+                        
+                        I am a 24 year old Graphic Communications professional aiming to blend my
                         knowledge of design with
                         coding to grow into a web development career.
                     <br />
