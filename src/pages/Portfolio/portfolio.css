@@ -8,3 +8,7 @@ body {
     margin-bottom: 0;
     width: 50px;
 }
+
+.ontainer-fluid-main {
+    padding: 35px;
+}

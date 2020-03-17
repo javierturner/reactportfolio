@@ -2,6 +2,7 @@
 http://findmatthew.com/
 
 To do
+-footer css
 -navbar component, 
     <!-- -add navbar to all pages -->
     <!-- -add heading to all pages -->

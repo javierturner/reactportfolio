@@ -1,6 +1,6 @@
 import React from "react";
 // import { Link, useLocation } from "react-router-dom";
-import { LinkContainer, Link, Nav, NavItem } from "react-router-bootstrap";
+import "./Navbar.css";
 
 function Navbar() {
     return (
