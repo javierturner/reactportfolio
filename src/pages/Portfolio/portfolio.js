@@ -43,6 +43,7 @@ function Portfolio() {
                                 Repository</a>
                     </div>
                 </div>
+                <br/>
                 <div className="row">
                     <div className="col-md-3">
                         <h5> Coding Quiz</h5>
@@ -57,6 +58,7 @@ function Portfolio() {
                                 Repository</a>
                     </div>
                 </div>
+                <br/>
             </div>
         </div>
     )

@@ -7,7 +7,7 @@ To do
     <!-- -add heading to all pages -->
 -rewrite about me page
 <!-- -finish contact page -->
--finish portfolio page
+<!-- -finish portfolio page -->
     -use Projects component multiple times
         -store projects and info in a separate js file and call using Projects?
 -Add skills to about me page, possible graphics?

@@ -5,9 +5,52 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #3C3C3C;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+h1 {
+  color: white;
+  font-size: 60px;
+  margin-bottom: 0;
+  text-shadow: 2px 1px #FF5A5F;
+}
+
+h3 {
+  color: #FF5A5F;
+  font-size: 30px;
+}
+
+h4 {
+  color: white;
+  font-size: 35px;
+}
+
+h5 {
+  color: #FF5A5F;
+}
+
+hr {
+  border-color: #BBDBDF;
+}
+
+a {
+  /* text-decoration: none !important; */
+  color: white !important;
+}
+
+a:hover {
+  color: green;
+}
+
+a:visited {
+  color: #084C61;
+}
+
+a:hover {
+  color: green;
 }
