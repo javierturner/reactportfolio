@@ -40,30 +40,12 @@ hr {
 
 a {
   /* text-decoration: none !important; */
-  color: white !important;
+  color: white;
 }
 
 a:hover {
-  color: green;
+  color: #FF5A5F;
 }
 
-a:visited {
-  color: #084C61;
-}
 
-a:hover {
-  color: green;
-}
 
-.container-fluid-main {
-  clear: both;
-  border: 1px  #FF5A5F;
-  background: #BBDBDF;
-  margin: 0 auto; 
-  width: 1000px;   
-  box-sizing: border-box;
-  border: solid 1px;
-  border-radius: 10px;
-  padding: 10px;
-  margin-bottom: 10%;
-}

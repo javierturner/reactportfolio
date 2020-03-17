@@ -1,3 +1,13 @@
-.container-fluid-main {
-    text-align: center;
+#heading {
+    font-size: 25px;
+    text-shadow: 1px .5px #3C3C3C;
+    clear: both;
+    background: #BBDBDF;
+    margin: 0 auto; 
+    width: 1000px;   
+    box-sizing: border-box;
+    border: solid 1px #FF5A5F;
+    border-radius: 10px;
+    padding: 10px;
+    color: #3C3C3C!important;
 }
