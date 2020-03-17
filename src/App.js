@@ -6,14 +6,16 @@ import About from "./pages/About/about";
 import Contact from "./pages/Contact/contact";
 import Portfolio from "./pages/Portfolio/portfolio";
 import Wrapper from "./components/Wrapper/Wrapper";
+import Header from "./components/Header/Header";
 
 function App() {
   return (
     <Router>
       <div>
+        <Header />
         <Navbar />
         <Wrapper>
-          <Route exact path="/" component={About} />
+          <Route exact path="/about" component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Wrapper>

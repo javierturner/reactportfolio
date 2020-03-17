@@ -3,7 +3,7 @@ http://findmatthew.com/
 
 To do
 -navbar component, 
-    -add navbar to all pages
+    <!-- -add navbar to all pages -->
     -add heading to all pages
 -Add skills to about me page, possible graphics?
 -rewrite about me page
