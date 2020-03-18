@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import PDF from "../../images/Javier_Turner_Resume.pdf"
+import "./contact.css";
 
 function Contact() {
     return (
-        <div className="container-fluid-main">
+        <div className="container-fluid-main outerBox">
             <div className="row">
                 <div className="col-10">
                     <h2>Contact Me</h2>

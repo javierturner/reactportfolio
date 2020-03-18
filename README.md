@@ -4,9 +4,10 @@ http://findmatthew.com/
 To do
 -footer css
 -rewrite about me page
+-hamburger menu
 -format pages
-    -center header
-    -center navbar items
+    <!-- -center header -->
+    <!-- -center navbar items -->
     -align portfolio images
     -use Projects component multiple times
         -store projects and info in a separate js file and call using Projects?

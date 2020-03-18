@@ -1,5 +1,6 @@
 body {
     background-color: #3C3C3C;
+    position: relative;
 }
 
 .thumbnail {
@@ -22,5 +23,5 @@ body {
     box-sizing: border-box;
     border: solid 1px;
     border-radius: 10px;
-    padding: 10px;
+    /* padding: 10px; */
 }
