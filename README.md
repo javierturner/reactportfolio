@@ -2,9 +2,10 @@
 http://findmatthew.com/
 
 To do
--footer css
+<!-- -footer css -->
 -rewrite about me page
 -hamburger menu
+-submit button 
 -format pages
     <!-- -center header -->
     <!-- -center navbar items -->

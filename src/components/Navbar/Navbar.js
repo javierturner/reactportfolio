@@ -12,15 +12,7 @@ function Navbar() {
                     aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon "><i className="fa fa-bars" aria-hidden="true"></i></span>
                 </button>
-                <div className="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
-                    <ul className="navbar-nav nav leftItems">
-                        <li className="nav-item">
-                            <a className="nav-link a_link " href="https://github.com/javierturner" target="_blank" id="link">Github</a>
-                        </li>
-                        <li>
-                        <a className="nav-link a_link" href={PDF} target="_blank">Resume</a>
-                        </li>
-                    </ul>
+                <div className="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                     <ul className="navbar-nav nav rightItems">
                         <li className="nav-item">
                             <a className="nav-link a_link " href="/about">About Me</a>
@@ -32,6 +24,14 @@ function Navbar() {
                             <a className="a_link nav-link" href="/contact">Contact</a>
                         </li>
 
+                    </ul>
+                    <ul className="navbar-nav nav leftItems">
+                        <li className="nav-item">
+                            <a className="nav-link a_link " href="https://github.com/javierturner" target="_blank" id="link">Github</a>
+                        </li>
+                        <li>
+                        <a className="nav-link a_link" href={PDF} target="_blank">Resume</a>
+                        </li>
                     </ul>
                 </div>
             </nav>

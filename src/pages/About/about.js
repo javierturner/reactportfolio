@@ -2,18 +2,17 @@ import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Picture from "../../images/profilepicture.jpg";
 import PDF from "../../images/Javier_Turner_Resume.pdf";
+import "./../About/about.css";
 
 function About() {
     return (
-        <div className="container-fluid-main">
+        <div className="container-fluid-main outerBox">
             <div className="row">
-                <div className="col-10">
+                <div className="col-12">
                     <h2>About Me</h2>
                 </div>
-            </div>
-            <hr />
-            <div className="row">
-                <div className="col-md-9">
+
+                <div className="col-md-12">
                     <img className="image-fluid rounded float-left mx-3 my-3" id="profile" width="216px" src={Picture} alt="JT" />
                     <p>
                         Hi! I'm JT, a 24 year old 
@@ -28,11 +27,6 @@ function About() {
                         <br />
                         I have ten years experience with the Adobe Creative Suite, and I'm excited to use my creative background to enhance my newly minted web development skills
                     </p>
-                </div>
-                <div className="col-md-3">
-                    <h3>Links</h3>
-                    <p><a href="https://github.com/javierturner" target="_blank" id="link">Github Profile</a></p>
-                    <p><a href={PDF} target="_blank">Resume</a></p>
                 </div>
             </div>
         </div>

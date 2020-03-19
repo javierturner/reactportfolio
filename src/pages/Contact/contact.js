@@ -25,11 +25,6 @@ function Contact() {
                             <input type="submit" value="Submit" />
 
                         </form>
-                        <div className="col-md-3">
-                            <h3>Links</h3>
-                            <p><a href="https://github.com/javierturner" target="_blank" id="link">Github Profile</a></p>
-                            <p><a href={PDF} target="_blank">Resume</a></p>
-                        </div>
                     </div>
                 </div>
             </div>

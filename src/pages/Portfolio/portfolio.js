@@ -5,12 +5,12 @@ import Planner from "../../images/DayPlanner.png";
 import Password from "../../images/PasswordGenerator.png";
 import Code from "../../images/CodeQuiz.png";
 import Note from "../../images/NoteTaker.png";
-import "./portfolio.css";
+import "./../Portfolio/portfolio.js";
 
 function Portfolio() {
     return (
-        <div className="container-fluid-main portfolio">
-            <div className="row">
+        <div className="container-fluid-main outerBox">
+            <div className="row portfolio">
                 <div className="col-12">
                     <h2>Portfolio</h2>
                 </div>

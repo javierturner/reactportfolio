@@ -17,7 +17,7 @@ function App() {
         <hr/>
         <Navbar />
         <Wrapper>
-          <Route exact path={["/", "/about"]} component={About} />
+          <Route exact path={["/", "/about", "/home"]} component={About} />
           <Route exact path="/portfolio" component={Portfolio} />
           <Route exact path="/contact" component={Contact} />
         </Wrapper>

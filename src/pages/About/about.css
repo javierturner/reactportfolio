@@ -5,19 +5,47 @@ body {
 
 #profile {
     float: right;
-    margin: 3px;
+    margin-right: 200px;
     border-radius: 3%;
     clear: left;
 }
 
-h2 {
+/* h2 {
     color: white;
     font-size: 60px;
     margin-bottom: 0;
     text-shadow: 2px 1px #FF5A5F;
-}
+    text-align: center!important;
+} */
 
 hr {
     border-color: #BBDBDF;
 }
 
+.outerBox {
+    padding: 10px 35px 0px 35px;
+    /* text-align: center; */
+    font-size: 40px;
+    /* text-shadow: 1px 1px ; */
+    clear: both;
+    border: 1px  #FF5A5F;
+    background: #BBDBDF;
+    margin: 0 auto; 
+    width: 65%;   
+    box-sizing: border-box;
+    border: solid 1px;
+    border-radius: 10px;
+    /* padding: 10px; */
+    position: relative;
+    /* align-content: center; */
+    display: flex;
+    margin-bottom: 50%;
+}
+
+.col-md-12 {
+    font-size: 15px;
+}
+
+footer {
+    margin-top: 20%!important;
+}
