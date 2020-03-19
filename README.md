@@ -4,12 +4,12 @@ http://findmatthew.com/
 To do
 <!-- -footer css -->
 -rewrite about me page
--hamburger menu
--submit button 
+<!-- -hamburger menu -->
+<!-- -submit button  -->
 <!-- -format pages
     -center header
-     -center navbar items -->
-    -align portfolio images
+     -center navbar items 
+      -align portfolio images -->
     -use Projects component multiple times
         -store projects and info in a separate js file and call using Projects?
 -Add skills to about me page, possible graphics?

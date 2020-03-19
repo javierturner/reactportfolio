@@ -13,7 +13,10 @@ function About() {
                 </div>
 
                 <div className="col-md-12">
-                    <img className="image-fluid rounded float-left mx-3 my-3" id="profile" width="216px" src={Picture} alt="JT" />
+                    <div className="col-md-4">
+                    <img className="image-fluid rounded mx-3 my-3" id="profile" width="216px" src={Picture} alt="JT" />
+                    </div>
+                    <div className="col-md-8">
                     <p>
                         Hi! I'm JT, a 24 year old 
                         
@@ -27,6 +30,7 @@ function About() {
                         <br />
                         I have ten years experience with the Adobe Creative Suite, and I'm excited to use my creative background to enhance my newly minted web development skills
                     </p>
+                    </div>
                 </div>
             </div>
         </div>
