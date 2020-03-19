@@ -6,9 +6,9 @@ To do
 -rewrite about me page
 -hamburger menu
 -submit button 
--format pages
-    <!-- -center header -->
-    <!-- -center navbar items -->
+<!-- -format pages
+    -center header
+     -center navbar items -->
     -align portfolio images
     -use Projects component multiple times
         -store projects and info in a separate js file and call using Projects?
