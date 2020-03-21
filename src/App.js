@@ -19,7 +19,7 @@ function App() {
         <Wrapper>
           <BrowserRouter basename="src">
             <Route exact path={["/", "/about", "/home"]} component={About} />
-            <Route exact path="/portfolio" component={Portfolio} />
+            <Route exact path="/reactportfolio" component={Portfolio} />
             <Route exact path="/contact" component={Contact} />
           </BrowserRouter>
         </Wrapper>
