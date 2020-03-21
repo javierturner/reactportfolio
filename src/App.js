@@ -8,6 +8,7 @@ import Portfolio from "./pages/Portfolio/portfolio";
 import Wrapper from "./components/Wrapper/Wrapper";
 import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
+import "dotenv";
 
 function App() {
   return (
@@ -19,7 +20,7 @@ function App() {
         <Wrapper>
           {/* <BrowserRouter basename="src"> */}
             <Route exact path={["/", "/about", "/home"]} component={About} />
-            <Route exact path="/reactportfolio" component={Portfolio} />
+            <Route exact path="/portfolio" component={Portfolio} />
             <Route exact path="/contact" component={Contact} />
           {/* </BrowserRouter> */}
         </Wrapper>
