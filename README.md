@@ -1,20 +1,11 @@
-# reactportfolio
-http://findmatthew.com/
+# JT Turner React Portfolio
+![About Me](public/assets/images/aboutme.png)
+![Portfolio projects](public/assets/images/projects.png)
+![Contact Me](public/assets/images/contact.png)
 
-To do
-<!-- -footer css -->
--rewrite about me page
-<!-- -hamburger menu -->
-<!-- -submit button  -->
-<!-- -format pages
-    -center header
-     -center navbar items 
-      -align portfolio images -->
-    -use Projects component multiple times
-        -store projects and info in a separate js file and call using Projects?
--Add skills to about me page, possible graphics?
--css on all pages
-    -possibly make pages more interactive/graphics
-        -make sure site is animated
--possibly change portfolio url
+## Description
+This page allows me to introduce myself to employers as well as display some of my previous work.
 
+## Links to Deployed Application
+Deployed Application: https://jtturner-portfolio.herokuapp.com/
+Github Pages: https://github.com/javierturner/reactportfolio
