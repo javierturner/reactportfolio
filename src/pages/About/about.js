@@ -25,10 +25,7 @@ function About() {
                         coding to grow into a web development career.
                     <br />
                         <br />
-                        I graduated from Applachian State University in 2017 and have been working in Charlotte since.
-                    <br />
-                        <br />
-                        I have ten years experience with the Adobe Creative Suite, and I'm excited to use my creative background to enhance my newly minted web development skills
+                        I graduated from Applachian State University in 2017 and have been working in Charlotte since. I have ten years experience with the Adobe Creative Suite, and I'm excited to use my creative background to enhance my newly minted web development skills.
                     </p>
                     </div>
                 {/* </div> */}
