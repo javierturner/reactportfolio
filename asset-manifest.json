@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/reactportfolio/static/css/main.8f90b31c.chunk.css",
+    "main.js": "/reactportfolio/static/js/main.6a5d45b3.chunk.js",
+    "main.js.map": "/reactportfolio/static/js/main.6a5d45b3.chunk.js.map",
+    "runtime-main.js": "/reactportfolio/static/js/runtime-main.254f27b7.js",
+    "runtime-main.js.map": "/reactportfolio/static/js/runtime-main.254f27b7.js.map",
+    "static/js/2.5d960e32.chunk.js": "/reactportfolio/static/js/2.5d960e32.chunk.js",
+    "static/js/2.5d960e32.chunk.js.map": "/reactportfolio/static/js/2.5d960e32.chunk.js.map",
+    "index.html": "/reactportfolio/index.html",
+    "precache-manifest.190052a311a0daa69f1a278c50bcd116.js": "/reactportfolio/precache-manifest.190052a311a0daa69f1a278c50bcd116.js",
+    "service-worker.js": "/reactportfolio/service-worker.js",
+    "static/css/main.8f90b31c.chunk.css.map": "/reactportfolio/static/css/main.8f90b31c.chunk.css.map",
+    "static/js/2.5d960e32.chunk.js.LICENSE.txt": "/reactportfolio/static/js/2.5d960e32.chunk.js.LICENSE.txt",
+    "static/media/CodeQuiz.png": "/reactportfolio/static/media/CodeQuiz.98949569.png",
+    "static/media/DayPlanner.png": "/reactportfolio/static/media/DayPlanner.65941225.png",
+    "static/media/Giftify.png": "/reactportfolio/static/media/Giftify.7a201cf2.png",
+    "static/media/IntuitiveBanana.png": "/reactportfolio/static/media/IntuitiveBanana.31e6e92b.png",
+    "static/media/Javier_Turner_Resume.pdf": "/reactportfolio/static/media/Javier_Turner_Resume.79cc3521.pdf",
+    "static/media/NoteTaker.png": "/reactportfolio/static/media/NoteTaker.94b0d35d.png",
+    "static/media/PasswordGenerator.png": "/reactportfolio/static/media/PasswordGenerator.bd0ccdb9.png",
+    "static/media/profilepicture.jpg": "/reactportfolio/static/media/profilepicture.31f778bc.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.254f27b7.js",
+    "static/js/2.5d960e32.chunk.js",
+    "static/css/main.8f90b31c.chunk.css",
+    "static/js/main.6a5d45b3.chunk.js"
+  ]
+}
