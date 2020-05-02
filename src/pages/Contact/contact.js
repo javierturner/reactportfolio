@@ -9,8 +9,10 @@ function Contact() {
             <div className="row">
                 <div className="col-12">
                     <h2>Contact Me</h2>
+                    
                     <hr />
                     <div className="col-md-12 body-text">
+                    <h5>Email: javier.t.turner@gmail.com</h5>
                         <form action="https://formspree.io/meqzlagw" method="POST">
 
                             <label id="name">Name</label>

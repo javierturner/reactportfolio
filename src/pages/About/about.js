@@ -18,14 +18,10 @@ function About() {
                     </div>
                     <div className="col-md-8">
                     <p>
-                        Hi! I'm JT, a 24 year old 
-                        
-                        I am a 24 year old Graphic Communications professional aiming to blend my
-                        knowledge of design with
-                        coding to grow into a web development career.
-                    <br />
-                        <br />
-                        I graduated from Applachian State University in 2017 and have been working in Charlotte since. I have ten years experience with the Adobe Creative Suite, and I'm excited to use my creative background to enhance my newly minted web development skills.
+                    Hi, I'm JT! I am a self-driven and creative Front End Web Developer with a background in Graphic Communications and Design. With great communication skills and the ability to work under pressure, I have been working as a Production Planner and Estimator for one of the largest printing and distributing companies in the Southeast for 3 years, providing cost estimates and project direction to the Wide Format department.
+                    <br/>
+                    <br/>
+                    After recently graduating from UNC’s Full Stack Development program, I am excited to blend my knowledge of production and design with the new technologies I have learned.
                     </p>
                     </div>
                 {/* </div> */}
