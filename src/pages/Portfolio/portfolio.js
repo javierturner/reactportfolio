@@ -5,6 +5,7 @@ import Planner from "../../images/DayPlanner.png";
 import Password from "../../images/PasswordGenerator.png";
 import Code from "../../images/CodeQuiz.png";
 import Note from "../../images/NoteTaker.png";
+import Shoestring from "../../images/Shoestring.png";
 import "./../Portfolio/portfolio.js";
 
 function Portfolio() {
@@ -16,16 +17,16 @@ function Portfolio() {
                 </div>
                 <hr />
                 <div className="row">
+                <div className="col-md-6">
+                        <h5> Shoestring: Peer Payment Application</h5>
+                        <a href="https://www.shoestring.me/" target="_blank"><img className="img-fluid" src={Shoestring} /></a>
+                        <a href="https://github.com/cmarshman/shoestring" target="_blank">Github
+                                Repository</a>
+                    </div>
                     <div className="col-md-6">
                         <h5> Giftify: A Gift-Suggesting Application</h5>
                         <a href="https://giftify-project2.herokuapp.com/" target="_blank"><img className="img-fluid" src={Giftify} /></a>
                         <a href="https://github.com/javierturner/myportfolio" target="_blank">Github
-                                Repository</a>
-                    </div>
-                    <div className="col-md-6">
-                        <h5> Intuitive Banana: Music Application</h5>
-                        <a href="https://drbailey13.github.io/IntuitiveBanana/index.html" target="_blank"><img className="img-fluid" src={Banana} /></a>
-                        <a href="https://github.com/DrBailey13/IntuitiveBanana" target="_blank">Github
                                 Repository</a>
                     </div>
                 </div>
@@ -51,11 +52,12 @@ function Portfolio() {
                         <a href="https://github.com/javierturner/codequiz" target="_blank">Github
                                 Repository</a>
                     </div>
-                    <div className="col-md-6">
-                        <h5> Note Taker</h5>
-                        <a href="https://thawing-cliffs-93765.herokuapp.com/" target="_blank"><img className="img-fluid" src={Note} /></a>
-                        <a href="https://github.com/javierturner/notetaker" target="_blank">Github
+                    <div className="col-md-6">                   
+                        <h5> Intuitive Banana: Music Application</h5>
+                        <a href="https://drbailey13.github.io/IntuitiveBanana/index.html" target="_blank"><img className="img-fluid" src={Banana} /></a>
+                        <a href="https://github.com/DrBailey13/IntuitiveBanana" target="_blank">Github
                                 Repository</a>
+
                     </div>
                 </div>
                 <br/>

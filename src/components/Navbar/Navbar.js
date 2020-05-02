@@ -32,6 +32,9 @@ function Navbar() {
                         <li>
                         <a className="nav-link a_link" href={PDF} target="_blank">Resume</a>
                         </li>
+                        <li>
+                        <a className="nav-link a_link" href="https://linkedin.com/in/javierturner" target="_blank">LinkedIn</a>
+                        </li>
                     </ul>
                 </div>
             </nav>
