@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import PDF from "../../images/Javier_Turner_Resume.pdf"
+import PDF from "../../images/JT_Turner_Resume.pdf"
 import "./contact.css";
 
 function Contact() {
