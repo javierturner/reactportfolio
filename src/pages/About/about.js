@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import Picture from "../../images/profilepicture.jpg";
-import PDF from "../../images/Javier_Turner_Resume.pdf";
+import PDF from "../../images/JT-Turner_Resume.pdf";
 import "./../About/about.css";
 
 function About() {
