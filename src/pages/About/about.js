@@ -9,7 +9,7 @@ function About() {
         <div className="container-fluid-main outerBox">
             <div className="row">
                 <div className="col-12">
-                    <h2>About Me HELLO</h2>
+                    <h2>About Me</h2>
                 </div>
 
                 {/* <div className="col-md-12"> */}
