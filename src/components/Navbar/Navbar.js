@@ -1,7 +1,7 @@
 import React from "react";
 // import { Link, useLocation } from "react-router-dom";
 import "./Navbar.css";
-import PDF from "../../images/JT_Turner_Resume.pdf"
+import PDF from "../../images/JT-Turner_Resume.pdf"
 
 function Navbar() {
     return (

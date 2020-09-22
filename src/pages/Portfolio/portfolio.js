@@ -7,11 +7,32 @@ import Code from "../../images/CodeQuiz.png";
 import Note from "../../images/NoteTaker.png";
 import Shoestring from "../../images/Shoestring.png";
 import "./../Portfolio/portfolio.js";
+import Modals from "../../components/Modal";
 
 function Portfolio() {
     return (
-        <div className="container-fluid-main outerBox">
-            <div className="row portfolio">
+        <div className="container-fluid-main outerBox tile is-ancestor">
+            <div className="tile is-vertical is-11" id="tile">
+                <div className="tile is-parent">
+                    <article className="tile is-child notification is-dark">
+                        <p className="title banana" id="myPortfolio">My Portfolio</p>
+                        <div className="hero-body">
+                            <section>
+                                <div className="tile is-ancestor">
+                                    <div className="tile is-parent"></div>
+                                    <article className="tile is-child box notification is-light project" id="portfolioSelector" data-portfolio="portfolio1">
+                                        <img id="profile-image" src="../../images/Shoestring.png" alt="shoestring application"/>
+                                    </article>
+                                </div>
+                            </section>
+                        </div>
+                    </article>
+                </div>
+            </div>
+            <Modals/>
+
+
+            {/* <div className="row portfolio">
                 <div className="col-12">
                     <h2>Portfolio</h2>
                 </div>
@@ -26,7 +47,7 @@ function Portfolio() {
                     <div className="col-md-6">
                         <h5> Giftify: A Gift-Suggesting Application</h5>
                         <a href="https://giftify-project2.herokuapp.com/" target="_blank"><img className="img-fluid" src={Giftify} /></a>
-                        <a href="https://github.com/javierturner/myportfolio" target="_blank">Github
+                        <a href="https://github.com/cmarshman/Giftify" target="_blank">Github
                                 Repository</a>
                     </div>
                 </div>
@@ -61,7 +82,8 @@ function Portfolio() {
                     </div>
                 </div>
                 <br/>
-            </div>
+            </div> */}
+            {/* <Modals/> */}
         </div>
     )
 }
